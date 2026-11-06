@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Magnifier over a code bracket -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- code brackets -->
+    <path
+        android:pathData="M40,40 L30,52 L40,64"
+        android:strokeColor="#FF4FD6FF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M58,40 L68,52 L58,64"
+        android:strokeColor="#FF4FD6FF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <!-- lens -->
+    <path
+        android:pathData="M49,52 m-17,0 a17,17 0 1,0 34,0 a17,17 0 1,0 -34,0"
+        android:strokeColor="#FF8B7CFF"
+        android:strokeWidth="5"
+        android:fillColor="#00000000" />
+    <!-- handle -->
+    <path
+        android:pathData="M61.5,64.5 L74,77"
+        android:strokeColor="#FF8B7CFF"
+        android:strokeWidth="7"
+        android:strokeLineCap="round" />
+</vector>
